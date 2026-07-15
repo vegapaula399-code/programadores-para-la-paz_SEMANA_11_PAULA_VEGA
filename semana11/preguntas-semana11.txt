@@ -1,0 +1,4 @@
+✅ Un sistema que permite almacenar y consultar información estructurada.
+✅ Crear, leer, actualizar y eliminar datos.
+✅ Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+✅ Para evitar riesgos de privacidad o uso indebido de la información.

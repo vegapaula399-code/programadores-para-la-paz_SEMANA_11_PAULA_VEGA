@@ -1,0 +1,27 @@
+Modelo de Datos - Plataforma Comunitaria
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- ubicacion
+- fecha
+- estado
+
+Propósito:
+Guardar los reportes o incidencias registrados por los ciudadanos para hacer seguimiento y gestionar su atención.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Registrar la información de los usuarios de la plataforma y definir sus permisos según su rol, como ciudadano, coordinador o administrador.

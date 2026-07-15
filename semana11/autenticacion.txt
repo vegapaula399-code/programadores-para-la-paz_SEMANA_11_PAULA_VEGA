@@ -1,0 +1,9 @@
+Autenticación - Semana 10
+
+El login es el proceso que permite identificar a un usuario antes de darle acceso a una aplicación.
+Sirve para verificar la identidad de una persona mediante sus credenciales.
+Algunas rutas deben estar protegidas porque pueden contener información privada o funciones restringidas.
+La protección de rutas evita que usuarios no autorizados accedan a datos o acciones importantes.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos o direcciones.
+Tampoco deben compartirse tokens, claves de API ni información sensible de la comunidad.
+La seguridad ayuda a proteger la privacidad de los usuarios y la información del sistema.

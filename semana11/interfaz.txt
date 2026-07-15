@@ -1,0 +1,13 @@
+Interfaz - Plataforma Comunitaria
+
+La interfaz tendría una sección para crear una nueva causa comunitaria con campos como título, descripción y fecha de registro.
+
+También incluiría una vista de causas disponibles donde los usuarios puedan consultar las iniciativas publicadas.
+
+Cada causa tendría un botón de apoyo para que los ciudadanos puedan participar y mostrar su interés.
+
+Además, cada causa tendría un contador de apoyos que indique cuántas personas la han respaldado.
+
+La plataforma tendría una navegación sencilla y organizada para facilitar el uso por parte de la comunidad.
+
+La interfaz debe ser clara, fácil de entender y no debe mostrar información privada como documentos, teléfonos o datos personales de los usuarios.

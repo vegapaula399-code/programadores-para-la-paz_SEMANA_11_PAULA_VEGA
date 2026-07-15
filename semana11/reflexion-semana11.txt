@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana necesita una base de datos para almacenar y organizar la información de las causas, reportes y apoyos registrados.
+La autenticación de usuarios permite identificar a las personas que participan y controlar el acceso a ciertas funciones.
+La protección de información es importante para mantener la privacidad y seguridad de los datos de la comunidad.
+Estas medidas ayudan a evitar accesos no autorizados y el uso incorrecto de la información.
+Una plataforma segura genera confianza entre los ciudadanos que utilizan el sistema.
+Además, permite llevar un mejor seguimiento de las actividades y participaciones realizadas.
+La combinación de base de datos, autenticación y seguridad mejora la organización del proceso comunitario.
+Así se logra una herramienta más confiable, ordenada y útil para la participación ciudadana.
